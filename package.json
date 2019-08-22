@@ -1,0 +1,22 @@
+{
+  "name": "practice-progression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonmaungbbc/practice-progression.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonmaungbbc/practice-progression/issues"
+  },
+  "homepage": "https://github.com/wonmaungbbc/practice-progression#readme",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
